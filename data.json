@@ -1,1 +1,1 @@
-{"contains": [{"letter": "a", "locations": [0, 1]}, {"letter": "a", "locations": [0, 1]}, {"letter": "b", "locations": [3]}], "excludes": "nm", "found": [{"letter": "a", "spot": 0}, {"letter": "a", "spot": 1}]}
+{"contains": [], "excludes": "", "found": [], "amount": []}
