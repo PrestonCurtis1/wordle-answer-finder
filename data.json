@@ -1,1 +1,1 @@
-{"contains": [], "excludes": "", "found": [], "amount": []}
+{"contains": [{"letter": "e", "location": 4}, {"letter": "e", "location": 5}, {"letter": "e", "location": 2}, {"letter": "n", "location": 3}, {"letter": "y", "location": 5}], "excludes": "sorsblath", "found": [{"letter": "e", "spot": 1}, {"letter": "n", "spot": 2}, {"letter": "z", "spot": 3}, {"letter": "y", "spot": 4}, {"letter": "m", "spot": 5}], "amount": [{"letter": "e", "amount": 1}, {"letter": "e", "amount": 1}, {"letter": "e", "amount": 1}, {"letter": "n", "amount": 1}, {"letter": "y", "amount": 1}]}

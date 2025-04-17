@@ -70,7 +70,4 @@ def bestWords(validWords):
   return sortedWords
 def chooseWord(validWords):
   return max(validWords, key=validWords.get)
-
-      
-      
       
